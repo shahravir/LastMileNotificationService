@@ -1,0 +1,23 @@
+{
+  "name": "LastMileNotificationService",
+  "main": "server.js",
+  "description": "An introduction to developing Node.js apps on the Bluemix platform",
+  "version": "1.0.0",
+  "private": false,
+  "engines": {
+    "node": "4.*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBM-Bluemix/get-started-node"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+	"nodemailer":"^4.0.1"
+  },
+  "author": "IBM Corp",
+  "license": "Apache-2.0"
+}
