@@ -1,5 +1,0 @@
----
-applications:
- - name: LastMileNotifiactionService
-   random-route: true
-   memory: 256M
